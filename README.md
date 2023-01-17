@@ -10,9 +10,9 @@
 
 #### 1. [SMK AL-Hadiid 1 Cileungsi](http://alhadiid.mysch.id/) | Computer and Network Engineering (TKJ) | Cileungsi `2020-2023`
    - Member of IPH
- #### 2. [SMPIT Mutiara Islam](https://www.mutis.sch.id/) | Bogor `2018-2020`
+ #### 2. [SMPIT Mutiara Islam](https://www.mutis.sch.id/) | Bogor `2017-2020`
    - Head of the scout division
-   #### 3. [SDIT Mutiara Islam](https://www.mutis.sch.id/) | Bogor `2012-2018`
+   #### 3. [SDIT Mutiara Islam](https://www.mutis.sch.id/) | Bogor `2011-2017`
    
 ## Work Experience:
 #### 1. [Polsek Cileungsi](https://polresbogor.com/tag/polsek-cileungsi/) | Vaccine Data Entry | Bogor `Oct'2021 - Jan 2022`
