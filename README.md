@@ -11,7 +11,7 @@
 #### 1. [SMK AL-Hadiid 1 Cileungsi](http://alhadiid.mysch.id/) | Computer and Network Engineering (TKJ) | Cileungsi `2020-2023`
    - Member of IPH
  #### 2. [SMPIT Mutiara Islam](https://www.mutis.sch.id/) | Bogor `2018-2020`
-   - Member of Student Council
+   - Head of the scout division
    #### 3. [SDIT Mutiara Islam](https://www.mutis.sch.id/) | Bogor `2012-2018`
    
 ## Work Experience:
