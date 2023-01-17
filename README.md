@@ -1,18 +1,19 @@
-# Hi there, I'm Dimas - aka [DNZ XD](https://www.youtube.com/@dnzxd154) 👋
+# Hi there, I'm Abu Rafi 👋
 ## About me:
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Analyst and Data Entry
 - 🤔 I’m looking for suggest for Data Entry and Data Analyst
 - 💬 Ask me about anything
-- 📫 How to reach me: naufaldimas05@gmail.com
+- 📫 How to reach me: aburafi1617@gmail.com
 
 ## Education:
 
 #### 1. [SMK AL-Hadiid 1 Cileungsi](http://alhadiid.mysch.id/) | Computer and Network Engineering (TKJ) | Cileungsi `2020-2023`
-   - Chief of 12 Grade Class
- #### 2. [MTS Nurul Qur'an](https://www.nurul-quran.sch.id/) | Bogor `2018-2020`
+   - Member of IPH
+ #### 2. [SMPIT Mutiara Islam](https://www.mutis.sch.id/) | Bogor `2018-2020`
+   -
+   #### 3. [SDIT Mutiara Islam](https://www.mutis.sch.id/) | Bogor `2012-2018`
    
-
 ## Work Experience:
 #### 1. [Polsek Cileungsi](https://polresbogor.com/tag/polsek-cileungsi/) | Vaccine Data Entry | Bogor `Oct'2021 - Jan 2022`
    - Data Entry
@@ -36,11 +37,11 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/@dnzxd154#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/@dnzxd154#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/@aburafi9608#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/@aburafi9608#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/dims_dnz/?hl=en#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dims_dnz/?hl=en#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/arkarim7/?hl=en#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/arkarim7/?hl=en#gh-dark-mode-only)
 
 
 
