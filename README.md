@@ -1,8 +1,8 @@
 # Hi there, I'm Abu Rafi 👋
 ## About me:
-- 🌱 I’m currently learning Python and Javascript
+- 🌱 I’m currently learning about programing
 - 👯 I’m looking to collaborate as Data Analyst and Data Entry
-- 🤔 I’m looking for suggest for Data Entry and Data Analyst
+- 🤔 I’m looking suggest for Data Entry and Data Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: aburafi1617@gmail.com
 
@@ -10,9 +10,9 @@
 
 #### 1. [SMK AL-Hadiid 1 Cileungsi](http://alhadiid.mysch.id/) | Computer and Network Engineering (TKJ) | Cileungsi `2020-2023`
    - Member of IPH
-   #### 2. [SMPIT Mutiara Islam](https://www.mutis.sch.id/) | Bogor `2017-2020`
+#### 2. [SMPIT Mutiara Islam](https://www.mutis.sch.id/) | Bogor `2017-2020`
    - Head of the scout division
-   #### 3. [SDIT Mutiara Islam](https://www.mutis.sch.id/) | Bogor `2011-2017`
+#### 3. [SDIT Mutiara Islam](https://www.mutis.sch.id/) | Bogor `2011-2017`
    
 ## Work Experience:
 #### 1. [Polsek Cileungsi](https://polresbogor.com/tag/polsek-cileungsi/) | Vaccine Data Entry | Bogor `Oct'2021 - Jan 2022`
